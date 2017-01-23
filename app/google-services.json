@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860131038604",
+    "firebase_url": "https://petagram-57f7f.firebaseio.com",
+    "project_id": "petagram-57f7f",
+    "storage_bucket": "petagram-57f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860131038604:android:93ff69caf2248761",
+        "android_client_info": {
+          "package_name": "mx.grupogarcia.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860131038604-5177sqs6bd9gjua9pqi999q447448h38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.grupogarcia.notification",
+            "certificate_hash": "EEB0A07F45D9998A2F500C208381A8285E8A5F15"
+          }
+        },
+        {
+          "client_id": "860131038604-m97i4hm3f1604dhm9il7omp95dkljnhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFZ4Pah8TiOXz-744fL26AHWOAqPZc9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860131038604-m97i4hm3f1604dhm9il7omp95dkljnhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
